@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Eknoor01/DigitalClock-Calculator.git/static/css/main.55c9d28b.css",
-    "main.js": "/Eknoor01/DigitalClock-Calculator.git/static/js/main.c21a3422.js",
-    "static/js/488.72fcedd9.chunk.js": "/Eknoor01/DigitalClock-Calculator.git/static/js/488.72fcedd9.chunk.js",
-    "index.html": "/Eknoor01/DigitalClock-Calculator.git/index.html",
-    "main.55c9d28b.css.map": "/Eknoor01/DigitalClock-Calculator.git/static/css/main.55c9d28b.css.map",
-    "main.c21a3422.js.map": "/Eknoor01/DigitalClock-Calculator.git/static/js/main.c21a3422.js.map",
-    "488.72fcedd9.chunk.js.map": "/Eknoor01/DigitalClock-Calculator.git/static/js/488.72fcedd9.chunk.js.map"
+    "main.css": "/DigitalClock-Calculator/static/css/main.55c9d28b.css",
+    "main.js": "/DigitalClock-Calculator/static/js/main.401e43a6.js",
+    "static/js/488.72fcedd9.chunk.js": "/DigitalClock-Calculator/static/js/488.72fcedd9.chunk.js",
+    "index.html": "/DigitalClock-Calculator/index.html",
+    "main.55c9d28b.css.map": "/DigitalClock-Calculator/static/css/main.55c9d28b.css.map",
+    "main.401e43a6.js.map": "/DigitalClock-Calculator/static/js/main.401e43a6.js.map",
+    "488.72fcedd9.chunk.js.map": "/DigitalClock-Calculator/static/js/488.72fcedd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55c9d28b.css",
-    "static/js/main.c21a3422.js"
+    "static/js/main.401e43a6.js"
   ]
 }
